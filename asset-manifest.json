@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Maze-Runner/static/css/main.a4847436.css",
+    "main.js": "/Maze-Runner/static/js/main.5097f48e.js",
+    "index.html": "/Maze-Runner/index.html",
+    "main.a4847436.css.map": "/Maze-Runner/static/css/main.a4847436.css.map",
+    "main.5097f48e.js.map": "/Maze-Runner/static/js/main.5097f48e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4847436.css",
+    "static/js/main.5097f48e.js"
+  ]
+}
